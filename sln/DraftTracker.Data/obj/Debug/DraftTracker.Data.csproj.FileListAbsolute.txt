@@ -3,3 +3,8 @@ K:\Projects\DraftTracker\sln\DraftTracker.Data\bin\Debug\DraftTracker.Data.pdb
 K:\Projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\ResolveAssemblyReference.cache
 K:\Projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\DraftTracker.Data.dll
 K:\Projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\DraftTracker.Data.pdb
+C:\projects\DraftTracker\sln\DraftTracker.Data\bin\Debug\DraftTracker.Data.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data\bin\Debug\DraftTracker.Data.pdb
+C:\projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\DraftTracker.Data.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data\obj\Debug\DraftTracker.Data.pdb

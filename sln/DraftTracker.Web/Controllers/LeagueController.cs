@@ -31,12 +31,14 @@
 			return RedirectToAction("Index", "Home");
 		}
 
+		[HttpGet]
 		public ActionResult Edit(int id)
 		{
 			var league = Leagues.GetLeagueById(id);
 			return View(league);
 		}
 
+		[HttpPost]
 		public ActionResult Edit(int id, League league)
 		{
 			Leagues.SaveLeague(league);

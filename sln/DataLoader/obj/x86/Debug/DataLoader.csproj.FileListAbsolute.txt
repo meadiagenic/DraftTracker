@@ -11,3 +11,16 @@ K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.pdb
 K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\ResolveAssemblyReference.cache
 K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.exe
 K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.pdb
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.exe.config
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.exe
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.pdb
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.dll
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.SqlServer.dll
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.Ado.dll
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.dll
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.SqlServer.dll
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.SqlServer.pdb
+C:\projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.pdb
+C:\projects\DraftTracker\sln\DataLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.exe
+C:\projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.pdb

@@ -8,3 +8,13 @@ K:\Projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\DraftTracker.
 K:\Projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\ResolveAssemblyReference.cache
 K:\Projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\DraftTracker.Data.SqlServer.dll
 K:\Projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\DraftTracker.Data.SqlServer.pdb
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\DraftTracker.Data.SqlServer.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\DraftTracker.Data.SqlServer.pdb
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\DraftTracker.Data.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\Simple.Data.Ado.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\Simple.Data.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\Simple.Data.SqlServer.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\bin\Debug\DraftTracker.Data.pdb
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\ResolveAssemblyReference.cache
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\DraftTracker.Data.SqlServer.dll
+C:\projects\DraftTracker\sln\DraftTracker.Data.SqlServer\obj\Debug\DraftTracker.Data.SqlServer.pdb
