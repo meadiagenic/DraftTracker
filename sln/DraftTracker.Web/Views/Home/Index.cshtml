@@ -1,0 +1,17 @@
+﻿@model IEnumerable<League>
+
+@{
+	ViewBag.Title = "Index";
+}
+
+<h2>DraftTracker &copy 2011</h2>
+<div class="leagues">
+	<nav>
+		<ul class="simple">
+		@foreach (var league in Model) { 
+			<li>@Html.RouteLink(league.Name, "Default", new { action = "Edit", controller = "League", id = league.Id})</li>
+		}
+			<li>@Html.ActionLink( "Create a new league", "Create", "League")</li>
+		</ul>
+	</nav>
+</div>

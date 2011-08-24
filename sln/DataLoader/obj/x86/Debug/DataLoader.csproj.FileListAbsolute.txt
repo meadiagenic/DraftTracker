@@ -1,0 +1,13 @@
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.exe.config
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.exe
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DataLoader.pdb
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.dll
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.SqlServer.dll
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.Ado.dll
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.dll
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\Simple.Data.SqlServer.dll
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.SqlServer.pdb
+K:\Projects\DraftTracker\sln\DataLoader\bin\Debug\DraftTracker.Data.pdb
+K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\ResolveAssemblyReference.cache
+K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.exe
+K:\Projects\DraftTracker\sln\DataLoader\obj\x86\Debug\DataLoader.pdb

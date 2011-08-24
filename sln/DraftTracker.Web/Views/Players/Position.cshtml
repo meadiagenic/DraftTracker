@@ -1,0 +1,42 @@
+﻿@model IEnumerable<DraftTracker.Data.Models.Player>
+
+@{
+    ViewBag.Title = "Players by Position: @ViewBag.PositionName";
+}
+
+<h2>@ViewBag.PositionName</h2>
+
+<table>
+    <tr>
+        <th>
+            MyFantasyLeagueId
+        </th>
+        <th>
+            LastName
+        </th>
+        <th>
+            FirstName
+        </th>
+        <th>
+            Team
+        </th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.MyFantasyLeagueId)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.LastName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FirstName)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Team)
+        </td>
+    </tr>
+}
+
+</table>

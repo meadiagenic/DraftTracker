@@ -1,0 +1,26 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8" />
+	<title>@ViewBag.Title</title>
+	<link href="@Url.Content("~/Content/normalize.css")" rel="stylesheet" />
+	<link href="@Url.Content("~/Content/drafttracker.css")" rel="stylesheet" />
+	<script src="@Url.Content("~/Scripts/modernizr.js")"></script>
+</head>
+<body>
+	<div class="page">
+		<header>
+			<div id="title">
+				<h1>DraftTracker&copy; 2011</h1>
+			</div>
+
+		</header>
+		<section id="main">
+			@RenderBody()
+		</section>
+		<footer>
+		</footer>
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,45 @@
+﻿@model DraftTracker.Data.Models.League
+@using (Html.BeginForm())
+{
+	@Html.ValidationSummary(true)
+	<fieldset>
+		<legend>League</legend>
+
+		@Html.HiddenFor(model => model.Id)
+
+		<div class="editor-label">
+			@Html.LabelFor(model => model.Name)
+		</div>
+		<div class="editor-field">
+			@Html.EditorFor(model => model.Name)
+			@Html.ValidationMessageFor(model => model.Name)
+		</div>
+		<h2>Scoring</h2>
+		<div class="box scoring">
+			<h3>Passing Scoring</h3>
+			@Html.EditorFor(model => model.PassingRules)
+		</div>
+				
+		<div class="box scoring">
+			<h3>Rushing Scoring</h3>
+			@Html.EditorFor(model => model.RushingRules)
+		</div>
+		<div class="box scoring">
+			<h3>Recieving Scoring</h3>
+			@Html.EditorFor(model => model.ReceivingRules)
+		</div>
+		<div class="box scoring">
+			<h3>Kicking Scoring</h3>
+			@Html.EditorFor(model => model.KickingRules)
+		</div>
+		<div class="box scoring">
+			<h3>Defensive Scoring</h3>
+			@Html.EditorFor(model => model.DefensiveRules)
+		</div>
+		<h2>Teams</h2>
+		@Html.EditorFor(model => model.Teams)
+		<p>
+			<input type="submit" value="Save" />
+		</p>
+	</fieldset>
+}

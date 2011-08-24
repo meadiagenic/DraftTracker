@@ -1,0 +1,40 @@
+﻿body {
+}
+
+.simple 
+{
+	margin: 0;
+	padding: 0;
+	list-style: none;	
+}
+
+.simple > li 
+{
+	margin: 0;
+	list-style: none;	
+}
+
+
+
+.scoring 
+{
+	display: inline;
+	width: 50%;
+	margin-bottom: 1em;
+}
+
+.scoring .editor-label, .scoring .editor-field 
+{
+	display: inline;
+}
+
+.scoring .editor-field 
+{
+
+	margin-right: 1em;
+}
+
+.scoring input 
+{
+	width: 2em;
+}
